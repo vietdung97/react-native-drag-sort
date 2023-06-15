@@ -682,7 +682,7 @@ AutoDragSortableView.propTypes = {
     marginChildrenRight: PropTypes.number,
 
     sortable: PropTypes.bool,
-    refreshControl: PropsTypes.any,
+    refreshControl: PropTypes.any,
     onClickItem: PropTypes.func,
     onDragStart: PropTypes.func,
     onDragEnd: PropTypes.func,
